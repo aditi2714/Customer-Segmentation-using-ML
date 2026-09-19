@@ -87,7 +87,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn joblib streamlit
 jupyter notebook Customer_Segmentation_ML.ipynb
 
 # Launch the dashboard
-streamlit run app.py
+ python -m streamlit run segmentation.py
 ```
 
 ## Key Takeaways
